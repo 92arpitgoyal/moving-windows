@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    position: relative;
+    top: 100px;
+    left: 150px;
+}
+.box {
+    height: 70px;
+    width: 50px;
+    background-color: red;
+    position: absolute;
+}
+.head{
+    height: 30px;
+    width: 50px;
+    background-color: #ff0;
+}
